@@ -1,0 +1,9 @@
+@define-color bg rgba(13, 15, 26, 0.933);          /* rgba(0d0f1aee) */
+@define-color fg rgba(209, 215, 224, 1);           /* rgba(d1d7e0ff) */
+@define-color accent1 rgba(30, 200, 243, 1);       /* rgba(1ec8f3ff) */
+@define-color accent2 rgba(250, 79, 149, 1);       /* rgba(fa4f95ff) */
+@define-color highlight rgba(245, 179, 92, 1);     /* rgba(f5b35cff) */
+@define-color purple rgba(147, 129, 255, 1);       /* rgba(9381ffff) */
+@define-color orange rgba(255, 123, 80, 1);        /* rgba(ff7b50ff) */
+@define-color muted rgba(58, 63, 75, 1);           /* rgba(3A3F4Bff) */
+
